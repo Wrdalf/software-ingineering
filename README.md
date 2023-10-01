@@ -1,4 +1,4 @@
-f# software-ingineering-1
+# software-ingineering-1
 
 Отчет по Теме #2 выполнил(а):
 
@@ -19,3 +19,14 @@ f# software-ingineering-1
 | Задание 8 | + | - |
 | Задание 9 | + | - |
 | Задание 10 | + | - |
+
+## Лабораторная работа № 1
+### Вывести в консоль три строки. Первая - любое число. Вторая - любое число в виде строки. Третья - любое число с плавающей точкой.
+
+```python
+print(123)
+print('123')
+print(1.23)
+```
+### Результат:
+https://github.com/Wrdalf/software-ingineering/blob/lab1/%D1%82%D0%B5%D0%BC%D0%B0%202/%D0%BB%D0%B0%D0%B11/%D0%BA%D0%BE%D0%B4%20%D0%BB%D0%B0%D0%B1%201.png
