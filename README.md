@@ -1,2 +1,3 @@
-# software-ingineering
+# software-ingineering-1
+
 репозиторий Бидаева Альфреда ПИЭ-21-1, по программной инженерии
